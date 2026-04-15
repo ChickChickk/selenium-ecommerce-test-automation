@@ -13,10 +13,14 @@ The goal of this project is to practice writing clean and structured automation 
 
 ## How to Run
 
-git clone https://github.com/ChickChickk/selenium-ecommerce-test-automation.git
-pip install -r requirements.txt
-python tests/main.py
+`git clone https://github.com/ChickChickk/selenium-ecommerce-test-automation.git
+`
 
+`pip install -r requirements.txt
+`
+
+`python tests/main.py
+`
 ## Test Flow
 
 1.	Open SauceDemo website
