@@ -5,6 +5,10 @@ It simulates a real user going through an e-commerce checkout flow — from logg
 
 The goal of this project is to practice writing clean and structured automation code using the Page Object Model (POM), while handling common UI interactions like clicking elements, waiting for page loads, and navigating between pages.
 
+## Website
+
+https://www.saucedemo.com/
+
 ## Overview
 
 - Automating full checkout flow (login -> cart -> checkout -> confirmation)
