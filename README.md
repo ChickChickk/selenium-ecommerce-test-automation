@@ -9,6 +9,8 @@ The goal of this project is to practice writing clean and structured automation 
 
 https://www.saucedemo.com/
 
+<img width="1000" height="600" alt="Screenshot 2026-04-15 at 16 39 15" src="https://github.com/user-attachments/assets/e08a61df-9975-4bf6-847f-1236b9a75d6f" />
+
 ## Overview
 
 - Automating full checkout flow (login -> cart -> checkout -> confirmation)
