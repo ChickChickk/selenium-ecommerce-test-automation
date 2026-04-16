@@ -37,7 +37,7 @@ https://www.saucedemo.com/
 6.	Complete the order
 7.	Verify successful checkout
 
-## Future Improvements
+## Future Improvements to Try
 
 - Add pytest for structured test execution 
 - Implement test reports
