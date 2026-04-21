@@ -17,6 +17,21 @@ https://www.saucedemo.com/
 - Using Selenium WebDriver for browser interaction
 - Applying POM for better structure
 
+## Structure
+
+test automation/
+│
+├── pages/
+│   ├── login_page.py
+│   ├── product_page.py
+│   └── checkout_page.py
+├── tests/
+│   └── main.py
+├── utils/
+│   └── driver_setup.py
+└── requirements.txt 
+└── README.md
+
 ## How to Run
 
 `git clone https://github.com/ChickChickk/selenium-ecommerce-test-automation.git
